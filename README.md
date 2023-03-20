@@ -2,7 +2,8 @@
 3D model of Sarajevo City Hall made in Blender. AR application made in Unity. 
 ## Video 
 The video demonstrating the application is available on the following Drive:
-https://drive.google.com/drive/folders/1SIjNODCSpmn27nGSfHkXGghaaxQdEPtY?usp=share_link
+https://drive.google.com/drive/folders/1TVOAljgIHhI9LJx82n7hzm7XTSHMrZrN
+
 
 
 ## POI 
